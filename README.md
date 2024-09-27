@@ -12,8 +12,7 @@
 Сделал копии всех рабочих проектов на React-Typescript<br>
 <br>
 <br>
-Раньше работал в Emodika.ru и Linko.online<br>
-Еще раньше работал в 33kupona.ru<br><br>
+Раньше работал в Emodika.ru и Linko.online<br><br>
 
 Английский: B2, Upper intermediate
 
